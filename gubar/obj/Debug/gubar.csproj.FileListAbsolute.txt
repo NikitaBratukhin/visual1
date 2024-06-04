@@ -1,0 +1,83 @@
+D:\доделат\gubar\gubar\bin\Debug\gubar.exe.config
+D:\доделат\gubar\gubar\bin\Debug\gubar.exe
+D:\доделат\gubar\gubar\bin\Debug\gubar.pdb
+D:\доделат\gubar\gubar\obj\Debug\gubar.csproj.AssemblyReference.cache
+D:\доделат\gubar\gubar\obj\Debug\gubar.Form1.resources
+D:\доделат\gubar\gubar\obj\Debug\gubar.Form2.resources
+D:\доделат\gubar\gubar\obj\Debug\gubar.Form3.resources
+D:\доделат\gubar\gubar\obj\Debug\gubar.Form4.resources
+D:\доделат\gubar\gubar\obj\Debug\gubar.Form5.resources
+D:\доделат\gubar\gubar\obj\Debug\gubar.Properties.Resources.resources
+D:\доделат\gubar\gubar\obj\Debug\gubar.csproj.GenerateResource.cache
+D:\доделат\gubar\gubar\obj\Debug\gubar.csproj.CoreCompileInputs.cache
+D:\доделат\gubar\gubar\obj\Debug\gubar.exe
+D:\доделат\gubar\gubar\obj\Debug\gubar.pdb
+F:\доделат\gubar\gubar\bin\Debug\gubar.exe.config
+F:\доделат\gubar\gubar\bin\Debug\gubar.exe
+F:\доделат\gubar\gubar\bin\Debug\gubar.pdb
+F:\доделат\gubar\gubar\obj\Debug\gubar.csprojAssemblyReference.cache
+F:\доделат\gubar\gubar\obj\Debug\gubar.Form1.resources
+F:\доделат\gubar\gubar\obj\Debug\gubar.Form2.resources
+F:\доделат\gubar\gubar\obj\Debug\gubar.Form3.resources
+F:\доделат\gubar\gubar\obj\Debug\gubar.Form4.resources
+F:\доделат\gubar\gubar\obj\Debug\gubar.Form5.resources
+F:\доделат\gubar\gubar\obj\Debug\gubar.Properties.Resources.resources
+F:\доделат\gubar\gubar\obj\Debug\gubar.csproj.GenerateResource.cache
+F:\доделат\gubar\gubar\obj\Debug\gubar.csproj.CoreCompileInputs.cache
+F:\доделат\gubar\gubar\obj\Debug\gubar.exe
+F:\доделат\gubar\gubar\obj\Debug\gubar.pdb
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.Form1.resources
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.Form2.resources
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.Form3.resources
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.Form4.resources
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.Form5.resources
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.Properties.Resources.resources
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.csproj.GenerateResource.cache
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.csproj.CoreCompileInputs.cache
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\bin\Debug\gubar.exe.config
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\bin\Debug\gubar.exe
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\bin\Debug\gubar.pdb
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.exe
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.pdb
+D:\П-20\Губарь Павел\Visualstdio\gubar\gubar\obj\Debug\gubar.csprojAssemblyReference.cache
+C:\Users\5KK-1\Desktop\gubar2\gubar\obj\Debug\gubar.Form1.resources
+C:\Users\5KK-1\Desktop\gubar2\gubar\obj\Debug\gubar.Form3.resources
+C:\Users\5KK-1\Desktop\gubar2\gubar\obj\Debug\gubar.Properties.Resources.resources
+C:\Users\5KK-1\Desktop\gubar2\gubar\obj\Debug\gubar.csproj.GenerateResource.cache
+C:\Users\5KK-1\Desktop\gubar2\gubar\obj\Debug\gubar.csproj.CoreCompileInputs.cache
+C:\Users\5KK-1\Desktop\gubar2\gubar\bin\Debug\gubar.exe.config
+C:\Users\5KK-1\Desktop\gubar2\gubar\bin\Debug\gubar.exe
+C:\Users\5KK-1\Desktop\gubar2\gubar\bin\Debug\gubar.pdb
+C:\Users\5KK-1\Desktop\gubar2\gubar\obj\Debug\gubar.exe
+C:\Users\5KK-1\Desktop\gubar2\gubar\obj\Debug\gubar.pdb
+C:\Users\5KK-1\Desktop\gubar2\gubar\obj\Debug\gubar.csprojAssemblyReference.cache
+D:\ФЛЕШКА\gubar2\gubar\bin\Debug\gubar.exe.config
+D:\ФЛЕШКА\gubar2\gubar\bin\Debug\gubar.exe
+D:\ФЛЕШКА\gubar2\gubar\bin\Debug\gubar.pdb
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.csproj.AssemblyReference.cache
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.Properties.Resources.resources
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.csproj.GenerateResource.cache
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.csproj.CoreCompileInputs.cache
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.exe
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.pdb
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.CustomerForm.resources
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.ManagerForm.resources
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.MasterForm.resources
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.OperatorForm.resources
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.LoginForm.resources
+D:\ФЛЕШКА\gubar2\gubar\obj\Debug\gubar.RegisterForm.resources
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.csproj.AssemblyReference.cache
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.CustomerForm.resources
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.LoginForm.resources
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.ManagerForm.resources
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.MasterForm.resources
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.OperatorForm.resources
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.Properties.Resources.resources
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.RegisterForm.resources
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.csproj.GenerateResource.cache
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.csproj.CoreCompileInputs.cache
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.exe
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\obj\Debug\gubar.pdb
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\bin\Debug\gubar.exe.config
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\bin\Debug\gubar.exe
+C:\Users\mebao\OneDrive\Desktop\gubar2\gubar\bin\Debug\gubar.pdb
